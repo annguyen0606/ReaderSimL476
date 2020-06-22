@@ -1,0 +1,15 @@
+"E:\IAR\arm\bin\armproc.dll" 
+
+"E:\IAR\arm\bin\armstlink2.dll" 
+
+"D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM\ReaderNFC\Exe\ReaderNFC.out" 
+
+--plugin="E:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="E:\IAR\arm\config\debugger\ST\STM32L4xx.dmac" 
+
+--flash_loader="E:\IAR\arm\config\flashloader\ST\FlashSTM32L4AxxG.board" 
+
+
+
+

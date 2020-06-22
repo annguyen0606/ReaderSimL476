@@ -1,0 +1,42 @@
+stm32l4xx_hal_rcc_ex.pbi: \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\Drivers\STM32L4xx_HAL_Driver\Src\stm32l4xx_hal_rcc_ex.c \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Inc\stm32l4xx_hal_conf.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_rcc.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include\stm32l4xx.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l476xx.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Include\core_cm4.h \
+  E:\IAR\arm\inc\c\stdint.h E:\IAR\arm\inc\c\ycheck.h \
+  E:\IAR\arm\inc\c\yvals.h E:\IAR\arm\inc\c\DLib_Defaults.h \
+  E:\\IAR\\arm\\inc\\c\\DLib_Config_Full.h \
+  E:\IAR\arm\inc\c\DLib_Product.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  E:\IAR\arm\inc\c\iccarm_builtin.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Include/mpu_armv7.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  E:\IAR\arm\inc\c\stddef.h E:\IAR\arm\inc\c\ysizet.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_rcc_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_exti.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_gpio.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_gpio_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_dma.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_dma_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_cortex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_crc.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_crc_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_flash.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ramfunc.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_i2c.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_i2c_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_pwr.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_spi.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_spi_ex.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_uart.h \
+  D:\HocLapTrinhViDieuKhien\HocLapTrinhSTM32\NUCLEO-L476RG\ReaderNFC\ReaderNFC\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart_ex.h
